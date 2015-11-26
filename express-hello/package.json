@@ -1,0 +1,10 @@
+{
+  "name": "express-hello",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Dockerized ExpressJS Hello World Application",
+  "author": "Huseyin BABAL <huseyinbabal88@gmail.com>",
+  "dependencies": {
+    "express": "latest"
+  }
+}
